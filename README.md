@@ -11,6 +11,7 @@ The core downloader (`comments_downloader.py`) was written by **Will Jobs** and 
 under the MIT License with gratitude.
 
 - Original repo: https://github.com/willjobs/regulations-public-comments
+- Our fork: https://github.com/FrankinDAK/regulations-public-comments
 - Blog post: https://willjobs.com/blog/downloading-public-comments
 - License: MIT
 
